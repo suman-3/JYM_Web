@@ -1,0 +1,18 @@
+//Style Script
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gruppo&family=Lora:wght@500&family=Poppins:wght@400;600&family=Roboto&family=Ubuntu&family=Varela+Round&display=swap" rel="stylesheet">
+
+
+//fonts 
+font-family: 'Gruppo', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Varela Round', sans-serif;
+
+
+
+//Unsplash random images
+https://source.unsplash.com/400x480/?nature,python
